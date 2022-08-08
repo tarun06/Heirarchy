@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net6.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<Nullable>Enable</Nullable>
+		<CodeAnalysisRuleSet>..\..\StyleCop.ruleset</CodeAnalysisRuleSet>
+		<AssemblyName>PrismApp</AssemblyName>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+		<PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+		<PackageReference Include="Prism.Logging.Serilog" Version="7.2.0.1423" />
+		<PackageReference Include="Serilog" Version="2.11.0" />
+		<PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+		<PackageReference Include="Serilog.Sinks.Prism" Version="0.9.0" />
+		<PackageReference Include="StyleCop.Analyzers.Unstable" Version="1.2.0.435">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\PrismApp.Resources\PrismApp.Resources.csproj" />
+		<ProjectReference Include="..\PrismApp.Core\PrismApp.Core.csproj" />
+		<ProjectReference Include="..\Modules\PrismApp.Modules.Users\PrismApp.Modules.Users.csproj" />
+		<ProjectReference Include="..\Services\PrismApp.Services.Interfaces\PrismApp.Services.Interfaces.csproj" />
+		<ProjectReference Include="..\Services\PrismApp.Services\PrismApp.Services.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="appsettings.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+</Project>

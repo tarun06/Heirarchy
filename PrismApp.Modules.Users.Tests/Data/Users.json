@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "firstName": "Rosella",
+    "lastName": "Burks",
+    "email": "BurksR@univ.edu",
+    "phone": "963.555.1253",
+    "title": "Professor ",
+    "supervisorId": 4
+  },
+  {
+    "id": 2,
+    "firstName": "Damien",
+    "lastName": "Avila",
+    "email": "AvilaD@univ.edu",
+    "phone": "963.555.1352",
+    "title": "Professor ",
+    "supervisorId": 4
+  },
+  {
+    "id": 3,
+    "firstName": "Robin",
+    "lastName": "Olsen",
+    "email": "OlsenR@univ.edu",
+    "phone": "963.555.1378",
+    "title": "Assistant Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 4,
+    "firstName": "Edgar",
+    "lastName": "Moises",
+    "email": "MoisesE@univ.edu",
+    "phone": "963.555.2731x3565",
+    "title": "Professor",
+    "supervisorId": null
+  },
+  {
+    "id": 5,
+    "firstName": "Heath",
+    "lastName": "Brian",
+    "email": "BrianH@univ.edu",
+    "phone": "963.555.2800",
+    "title": "Associate Curator ",
+    "supervisorId": 9
+  },
+  {
+    "id": 6,
+    "firstName": "Elvin",
+    "lastName": "Claude",
+    "email": "ClaudeE@univ.edu",
+    "phone": "963.555.2902",
+    "title": "Curator",
+    "supervisorId": 9
+  },
+  {
+    "id": 7,
+    "firstName": "Edmund",
+    "lastName": "Mosley",
+    "email": "MosleyE@univ.edu",
+    "phone": "963.555.2945",
+    "title": "Assistant Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 8,
+    "firstName": "Antoine",
+    "lastName": "Derek",
+    "email": "DerekA@univ.edu",
+    "phone": "963.555.2992",
+    "title": "Curator",
+    "supervisorId": 9
+  },
+  {
+    "id": 9,
+    "firstName": "Callie",
+    "lastName": "Hawkins",
+    "email": "HawkinsC@univ.edu",
+    "phone": "963.555.3350x6480",
+    "title": "Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 10,
+    "firstName": "Andrea",
+    "lastName": "Pate",
+    "email": "PateA@univ.edu",
+    "phone": "963.555.3723",
+    "title": "Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 11,
+    "firstName": "Liz",
+    "lastName": "Austin",
+    "email": "AustinL@univ.edu",
+    "phone": "963.555.4305",
+    "title": "Assistant Professor",
+    "supervisorId": 9
+  },
+  {
+    "id": 12,
+    "firstName": "Reba",
+    "lastName": "Kendrick",
+    "email": "KendrickR@univ.edu",
+    "phone": "963.555.4618x7744",
+    "title": "Associate Curator ",
+    "supervisorId": 8
+  },
+  {
+    "id": 13,
+    "firstName": "Angelina",
+    "lastName": "Sims",
+    "email": "SimsA@univ.edu",
+    "phone": "963.555.5278",
+    "title": "Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 14,
+    "firstName": "Kimberly",
+    "lastName": "Mullins",
+    "email": "MullinsK@univ.edu",
+    "phone": "963.555.5471x1017",
+    "title": "Assistant Professor",
+    "supervisorId": 9
+  },
+  {
+    "id": 15,
+    "firstName": "Lloyd",
+    "lastName": "Chuck",
+    "email": "ChuckL@univ.edu",
+    "phone": "963.555.5568x2652",
+    "title": "Assistant Professor",
+    "supervisorId": 9
+  },
+  {
+    "id": 16,
+    "firstName": "Ladonna",
+    "lastName": "Payne",
+    "email": "PayneL@univ.edu",
+    "phone": "963.555.5639",
+    "title": "Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 17,
+    "firstName": "Johnathan",
+    "lastName": "Baxter",
+    "email": "BaxterJ@univ.edu",
+    "phone": "963.555.5902",
+    "title": "Research Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 18,
+    "firstName": "Gilbert",
+    "lastName": "Weiss",
+    "email": "WeissG@univ.edu",
+    "phone": "963.555.5969",
+    "title": "Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 19,
+    "firstName": "Florence",
+    "lastName": "Deirdre",
+    "email": "DeirdreF@univ.edu",
+    "phone": "963.555.6319",
+    "title": "Associate Curator ",
+    "supervisorId": 8
+  },
+  {
+    "id": 20,
+    "firstName": "Toby",
+    "lastName": "Fernando",
+    "email": "FernandoT@univ.edu",
+    "phone": "963.555.6469",
+    "title": "Research Professor",
+    "supervisorId": 4
+  },
+  {
+    "id": 21,
+    "firstName": "Patrica",
+    "lastName": "Garrison",
+    "email": "GarrisonP@univ.edu",
+    "phone": "963.555.6760",
+    "title": "Associate Curator ",
+    "supervisorId": 8
+  },
+  {
+    "id": 22,
+    "firstName": "Leila",
+    "lastName": "Effie",
+    "email": "EffieL@univ.edu",
+    "phone": "963.555.6824",
+    "title": "Assistant Professor",
+    "supervisorId": 9
+  },
+  {
+    "id": 23,
+    "firstName": "Rose",
+    "lastName": "Buckley",
+    "email": "BuckleyR@univ.edu",
+    "phone": "963.555.6855x5018",
+    "title": "Curator",
+    "supervisorId": 9
+  },
+  {
+    "id": 24,
+    "firstName": "Kathie",
+    "lastName": "Stanton",
+    "email": "StantonK@univ.edu",
+    "phone": "963.555.7095",
+    "title": "Professor",
+    "supervisorId": 31
+  },
+  {
+    "id": 25,
+    "firstName": "Shannon",
+    "lastName": "Banks",
+    "email": "BanksS@univ.edu",
+    "phone": "963.555.7198",
+    "title": "Professor",
+    "supervisorId": 31
+  },
+  {
+    "id": 26,
+    "firstName": "Cleo",
+    "lastName": "Barnes",
+    "email": "BarnesC@univ.edu",
+    "phone": "963.555.7463x7335",
+    "title": "Research Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 27,
+    "firstName": "Nellie",
+    "lastName": "Brady",
+    "email": "BradyN@univ.edu",
+    "phone": "963.555.7569",
+    "title": "Curator",
+    "supervisorId": 8
+  },
+  {
+    "id": 28,
+    "firstName": "Ruben",
+    "lastName": "Katheryn",
+    "email": "KatherynR@univ.edu",
+    "phone": "963.555.7578",
+    "title": "Assistant Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 29,
+    "firstName": "Dianne",
+    "lastName": "Michael",
+    "email": "MichaelD@univ.edu",
+    "phone": "963.555.7592",
+    "title": "Assistant Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 30,
+    "firstName": "Adam",
+    "lastName": "Grant",
+    "email": "GrantA@univ.edu",
+    "phone": "963.555.7775",
+    "title": "Research Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 31,
+    "firstName": "Kurtis",
+    "lastName": "Head",
+    "email": "HeadK@univ.edu",
+    "phone": "963.555.7882",
+    "title": "Professor",
+    "supervisorId": null
+  },
+  {
+    "id": 32,
+    "firstName": "Jami",
+    "lastName": "Berger",
+    "email": "BergerJ@univ.edu",
+    "phone": "963.555.8158",
+    "title": "Research Professor",
+    "supervisorId": 31
+  },
+  {
+    "id": 33,
+    "firstName": "Jaime",
+    "lastName": "Earline",
+    "email": "EarlineJ@univ.edu",
+    "phone": "963.555.8357",
+    "title": "Associate Curator ",
+    "supervisorId": 8
+  },
+  {
+    "id": 34,
+    "firstName": "Summer",
+    "lastName": "Evelyn",
+    "email": "EvelynS@univ.edu",
+    "phone": "963.555.8895",
+    "title": "Professor ",
+    "supervisorId": 31
+  },
+  {
+    "id": 35,
+    "firstName": "Sam",
+    "lastName": "Quentin",
+    "email": "QuentinS@univ.edu",
+    "phone": "963.555.8921",
+    "title": "Assistant Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 36,
+    "firstName": "Ann",
+    "lastName": "Dunlap",
+    "email": "DunlapA@univ.edu",
+    "phone": "963.555.9067",
+    "title": "Assistant Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 37,
+    "firstName": "Rich",
+    "lastName": "Shields",
+    "email": "ShieldsR@univ.edu",
+    "phone": "963.555.9197",
+    "title": "Professor ",
+    "supervisorId": 31
+  },
+  {
+    "id": 38,
+    "firstName": "Winnie",
+    "lastName": "Page",
+    "email": "PageW@univ.edu",
+    "phone": "963.555.9366",
+    "title": "Curator",
+    "supervisorId": 8
+  },
+  {
+    "id": 39,
+    "firstName": "Ezra",
+    "lastName": "Sparks",
+    "email": "SparksE@univ.edu",
+    "phone": "963.555.9390",
+    "title": "Assistant Professor",
+    "supervisorId": 25
+  },
+  {
+    "id": 40,
+    "firstName": "Elba",
+    "lastName": "Kaufman",
+    "email": "KaufmanE@univ.edu",
+    "phone": "963.555.9507",
+    "title": "Professor",
+    "supervisorId": 31
+  }
+]

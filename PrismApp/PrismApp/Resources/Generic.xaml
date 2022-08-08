@@ -1,0 +1,19 @@
+<ResourceDictionary
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+
+    <Color x:Key="DefaultForegroundColor">#FF222222</Color>
+    <SolidColorBrush x:Key="DefaultForegroundBrush" Color="{DynamicResource DefaultForegroundColor}" />
+    <Color x:Key="DisabledForegroundColor">#888</Color>
+    <SolidColorBrush x:Key="DisabledForegroundBrush" Color="{StaticResource DisabledForegroundColor}" />
+    <Color x:Key="DefaultBackgroundColor">White</Color>
+    <SolidColorBrush x:Key="DefaultBackgroundBrush" Color="{DynamicResource DefaultBackgroundColor}" />
+    <Duration x:Key="DefaultTransitionsDuration">0:0:0.1</Duration>
+    <Color x:Key="AccentColor">SteelBlue</Color>
+    <Color x:Key="WindowBackgroundColor">White</Color>
+    <SolidColorBrush x:Key="AccentColorBrush" Color="{DynamicResource AccentColor}" />
+    <SolidColorBrush x:Key="WindowBackground" Color="{StaticResource WindowBackgroundColor}" />
+    <SolidColorBrush x:Key="WindowBorder" Color="{DynamicResource AccentColor}" Opacity=".5" />
+    <SolidColorBrush x:Key="WindowBorderActive" Color="{DynamicResource AccentColor}" />
+</ResourceDictionary>
